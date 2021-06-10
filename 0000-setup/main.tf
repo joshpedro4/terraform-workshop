@@ -21,3 +21,6 @@ resource "aws_instance" "exercise_0000" {
     Terraform = true
   }
 }
+
+#Adding changes to the commit 
+
